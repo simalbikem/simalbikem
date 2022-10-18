@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @simalbikem
+- 👀 I’m interested in been a newcoder
+- 🌱 I’m currently learning 'c'
+- 📫 How to reach me on simalbikemceylan@gmail.com
