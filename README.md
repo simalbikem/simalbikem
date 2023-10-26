@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @simalbikem
 - 👀 I’m interested in been a newcoder
-- 🌱 I’m currently learning 'c'
+- 🌱 I’m currently learning 'c', 'java' and 'phyton'
 - 📫 How to reach me on simalbikemceylan@gmail.com
